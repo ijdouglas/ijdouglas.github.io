@@ -81,6 +81,9 @@ html, body {
 .title > h1 {
     position: center;
     color: var(--white);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 .title {
@@ -103,10 +106,16 @@ p {
 }
 #navbar a {
     color: var(--black);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 h1 a {
     color: black;
     font-family: Sans-Serif;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 .item {
@@ -117,15 +126,27 @@ h1 a {
 /* add a strip of white behind the text for each box */
 .box1 > h1 {
     background-color: rgba(250,250,250,.8);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 .box2 > h1 {
     background-color: rgba(250,250,250,.8);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 .box3 > h1 {
     background-color: rgba(250,250,250,.8);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 .box4 > h1 {
     background-color: rgba(250,250,250,.8);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 button {
     background: var(--red);

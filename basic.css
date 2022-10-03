@@ -13,16 +13,25 @@ html, body {
 
 a {
     text-decoration: none;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 h1 {
     text-align: center;
     font-size: 36px;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 #navbar {
     padding: 20px 0;
     font-size: 24px;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 .grid {
@@ -43,15 +52,24 @@ h1 {
 
 p {
     text-align: center;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 h1 {
     font-size: 40px;
     font-weight:900;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 p {
     font-size: 18px;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 footer {
@@ -63,6 +81,9 @@ footer {
 footer > p {
     font-size: 14px;
     color: var(--black);
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
 
 button {
