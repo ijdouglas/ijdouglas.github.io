@@ -7,9 +7,13 @@
  .link-icon:hover {
    color: #111111;
 }
+/* Center links: */
 .link-container {
-  text-align: center;
-  position: center;
+  height: 200px;
+  /* background: #CCCCCC; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .box1 {
