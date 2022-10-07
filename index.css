@@ -9,7 +9,8 @@
 }
 /* Center links: */
 .link-container {
-  height: 30px;
+  min-height: 30px;
+  overlfow: hidden;
   /* background: #CCCCCC; */
   display: flex;
   align-items: center;
