@@ -126,10 +126,14 @@ p {
     color: var(--red);
 }
 #navbar a {
-    color: var(--black);
+    color: #444444;
     font-family: 'ralewaythin', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
+}
+#navbar a:hover {
+  text-decoration: underline;
+  color: #111111;
 }
 h1 a {
     color: black;
