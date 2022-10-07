@@ -103,6 +103,7 @@ html, body {
     font-family: 'ralewaythin', Arial, sans-serif;
     font-weight:bold;
     font-style:normal;
+    margin-bottom: 0;
 }
 
 .title {
