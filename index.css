@@ -177,3 +177,7 @@ button {
     --yellow: #ffe55b;
     --red: #ff5564;
 */
+
+ion-icon {
+  font-size: 32px;
+}
