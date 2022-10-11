@@ -96,14 +96,6 @@ header {
    color: var(--white);
 }
 
-.box-h1 > a {
-    text-decoration: none;
-    font-family: 'ralewaythin', Arial, sans-serif;
-    font-weight:normal;
-    font-style:normal;
-    vertical-align:middle;
-}
-
 .box-h1 {
     text-align: center;
     font-size: 36px;
@@ -112,8 +104,20 @@ header {
     font-style:normal;
 }
 
-.sp {
-  vertical-align: middle
+.box-h1 > a {
+    text-decoration: none;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    vertical-align:middle;
+}
+
+.box-h1 > a:hover {
+    text-decoration: none;
+    font-family: 'ralewaythin', Arial, sans-serif;
+    font-weight:bold;
+    font-style:normal;
+    vertical-align:middle;
 }
 
 .grid {
