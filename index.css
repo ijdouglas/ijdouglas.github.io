@@ -60,6 +60,7 @@ header {
 }
 /* title style */
 .title > h1 {
+    font-size: 48px;
     position: center;
     color: var(--white);
     font-family: 'ralewaythin', Arial, sans-serif;
