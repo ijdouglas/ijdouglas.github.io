@@ -179,7 +179,7 @@ button {
   border-radius:2px;
   border: 1px solid var(--white);
   /* background: #fff; */
-  background-image: url("https://img.wallpapersafari.com/desktop/1024/576/38/60/drXzap.jpg");
+  background-image: url("/research.png");
   background-color: #ccc;
   background-size: cover;
   float: left;
@@ -192,7 +192,7 @@ button {
   border-radius:2px;
   border: 1px solid var(--white);
   /* background: #fff; */
-  background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-Online-Code-Editors.png");
+  background-image: url("/code.jpg");
   background-color: #ccc;
   background-size: cover;
   float: left;
